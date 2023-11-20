@@ -1,0 +1,20 @@
+body {
+    background-color: aqua;
+    font-family: Arial, sans-serif;
+}
+.contenedor {
+    background-color: whitesmoke;
+    padding: 30px;
+}
+
+.CRUDCONTACTOS{
+    text-align: center;
+}
+
+form {
+    margin-bottom: 2rem;
+}
+
+button {
+    margin-left: 1rem;
+}
